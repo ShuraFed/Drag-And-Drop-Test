@@ -18,4 +18,5 @@
 - Кликабельные предметы (лампы,душ,солнце/луна).
 - Персонаж меняет спрайты когда садится/ложится.
 
-![] (https://github.com/ShuraFed/Drag-And-Drop-Test/blob/main/Gifs/tets_gif.gif)
+  ![tets_gif](https://github.com/user-attachments/assets/619751f6-28f8-40b7-b24e-4ccf9de7318c)
+
